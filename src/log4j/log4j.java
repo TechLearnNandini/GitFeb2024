@@ -29,7 +29,7 @@ public class log4j {
 			driver.findElement(By.name("q")).sendKeys(Keys.ENTER);
 			log.info("Enter button pressed in keyboard");
 			
-			Thread.sleep(5000);
-			log.info("Wait for 5 Sec");
+			Thread.sleep(4000);
+			log.info("Wait for 4 Sec");
 }
 }

@@ -12,7 +12,7 @@ public class IframesAutomation {
 	@Test
 	public void framesapplication() throws Exception {
 		driver.get("https://www.w3schools.com/js/tryit.asp?filename=tryjs_alert");
-		Thread.sleep(7000);
+		Thread.sleep(4000);
 		
 		WebElement frm = driver.findElement(By.id("iframeResult"));
 		driver.switchTo().frame(frm);				
