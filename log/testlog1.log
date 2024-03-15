@@ -1,0 +1,6 @@
+2024-03-05 18:39:10,398 [main] INFO LogLearning - Chrome Browser Launched
+2024-03-05 18:39:10,538 [main] INFO LogLearning - Browser window maximized
+2024-03-05 18:39:11,763 [main] INFO LogLearning - Navigate to the google application
+2024-03-05 18:39:11,896 [main] INFO LogLearning - In google search field Tirupati text enter
+2024-03-05 18:39:12,235 [main] INFO LogLearning - Enter button pressed in keyboard
+2024-03-05 18:39:17,245 [main] INFO LogLearning - Wait for 5 Sec
