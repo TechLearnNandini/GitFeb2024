@@ -13,8 +13,8 @@ public class RightDoubleDragMouseKey {
 	WebDriver driver;
 	@Test
 	public void rightclick() throws InterruptedException {
-		driver.get("http://seleniumlearn.com/");
-		Thread.sleep(4000);
+		driver.get("https://seleniumlearn.com/");
+		Thread.sleep(5000);
 		
 		Actions act = new Actions(driver);
 		act.contextClick(driver.findElement(By.xpath("//*[@id=\"menu-386-1\"]/a"))).build().perform();
